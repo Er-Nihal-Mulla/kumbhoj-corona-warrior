@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["__responsive.scss"],"sourcesContent":["@media (max-width: 765px){\r\n    .navbar__right {\r\n        flex-direction: column;\r\n    }\r\n}"],"file":"__responsive.css"}

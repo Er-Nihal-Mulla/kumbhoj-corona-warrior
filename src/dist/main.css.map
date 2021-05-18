@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["main.scss"],"sourcesContent":["//component files\r\n@import './SCSS/_All';\r\n@import './SCSS/_scrollbar';\r\n@import './SCSS/_statewise';\r\n@import './SCSS/_doctor';\r\n@import './SCSS/_footer';\r\n"],"file":"main.css"}
