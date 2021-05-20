@@ -7,7 +7,7 @@ const Home = () => {
       <section className="home" id="home">
         <div className="content">
           <h1>
-            Kumbhoj C<RiVirusFill />RONA Warriors<br></br>कुंभोज कोरोना योध्दा
+            Kumbhoj C<RiVirusFill />RONA warrior<br></br>कुंभोज कोरोना योध्दा
           </h1>
           <h3>
             stay home, stay safe<br></br>घरी रहा, सुरक्षित रहा
